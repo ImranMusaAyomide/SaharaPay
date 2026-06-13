@@ -1,7 +1,8 @@
 import Header from "./components/Header";
 import Herosection from "./components/Herosection";
 import Build from "./components/Build";
-import Image from "next/image";
+import Table from "./components/Table";
+import Security from "./components/Security";
 
 export default function Home() {
   return (
@@ -9,6 +10,8 @@ export default function Home() {
       <Header />
       <Herosection />
       <Build />
+      <Table />
+      <Security />
     </div>
   );
 }

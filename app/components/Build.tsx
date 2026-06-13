@@ -80,7 +80,7 @@ export default function Build() {
       <section className="mx-auto max-w-7xl px-6 py-16 sm:px-8 lg:px-12">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
-            Build for Africans Living and Working in
+            Build for Africans Living and Working in the Kingdom of Saudi Arabia
           </h2>
           <p className="mt-4 text-base text-gray-600">
             We understand the importance of every send home SaharaPay
