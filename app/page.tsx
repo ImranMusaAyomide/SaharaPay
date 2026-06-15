@@ -3,6 +3,7 @@ import Herosection from "./components/Herosection";
 import Build from "./components/Build";
 import Table from "./components/Table";
 import Security from "./components/Security";
+import Trustfaqfoot  from "./components/Trustfaqfoot";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Build />
       <Table />
       <Security />
+      <Trustfaqfoot  />
     </div>
   );
 }
